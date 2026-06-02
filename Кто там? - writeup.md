@@ -229,4 +229,4 @@ cat /tmp/final_flag.txt
 
 ---
 
-## ✅  Инструменты: `nmap`, `ssh`, `cat`, `ps`, `cron`, python, linpeas
+## ✅  Инструменты: `nmap`, `ssh`, `cat`, `ps`, `cron`, python, linpeas, dirsearch
