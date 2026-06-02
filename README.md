@@ -12,7 +12,7 @@
 #### 🟢 HackerLab
 
 - `Кто там?` — Port Knocking + SSH brute-force + cron exploitation  
-  → [`writeup.md`](./Кто%20там?%20-%20writeup.md)
+  → [`writeup.md`](./Кто%20там%3F%20-%20writeup.md)
 
 ## 🛠️ Общие инструменты
 
