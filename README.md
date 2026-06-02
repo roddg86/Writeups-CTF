@@ -4,7 +4,7 @@
 > 🔍 Всё, что нужно для изучения методов взлома — в одном месте.  
 > Решения задач из **HackerLab**, **TrueHackMe**, **Root-Me**, **HTB** и других платформ.
 
-[![GitHub stars](https://img.shields.io/github/stars/roddg86/Writeups-CTF?style=social)](https://github.com/roddg86/Writeups-CTF)
+[![GitHub stars](https://img.shields.io/github/stars/roddg86/Writeups-CTF?style=social)](https://github.com/roddg86/Writeups-CTF/stargazers)
 [![License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -24,6 +24,10 @@
 | `dirsearch` | Dir enumeration | https://github.com/maurosoria/dirsearch |
 | `Burp Suite` | Proxy, RCE, fuzzing | https://portswigger.net/burp |
 | `gobuster` | DNS/dir enum | https://github.com/OJ/gobuster |
+
+⭐ Поставь звезду, если этот репозиторий полезен!
+
+📩 Вопросы? Пиши в [issues](https://github.com/roddg86/Writeups-CTF/issues).
 
 📜 Лицензия
 Этот проект распространяется по лицензии [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
