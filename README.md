@@ -12,7 +12,7 @@
 #### 🟢 HackerLab
 
 - `Кто там?` — Port Knocking + SSH brute-force + cron exploitation  
-  → [`writeup.md`](./Кто%20там%3F%20-%20writeup.md)
+  → [`writeup`](./Кто%20там%3F%20-%20writeup.md)
 
 ## 🛠️ Общие инструменты
 
@@ -24,6 +24,16 @@
 | `dirsearch` | Dir enumeration | https://github.com/maurosoria/dirsearch |
 | `Burp Suite` | Proxy, RCE, fuzzing | https://portswigger.net/burp |
 | `gobuster` | DNS/dir enum | https://github.com/OJ/gobuster |
+
+- `Виртуальный сервер?` —  
+  → [`writeup`](./Виртуальный%20сервер%20-%20writeup.md)
+
+## 🛠️ Общие инструменты
+
+| Инструмент | Описание | Ссылка |
+|------------|----------|--------|
+| `nmap` | Сканирование портов | https://nmap.org |
+
 
 ⭐ Поставь звезду, если этот репозиторий полезен!
 
