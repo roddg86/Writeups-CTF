@@ -1,3 +1,5 @@
+[Прямая ссылка на задание](https://hackerlab.pro/categories/pentest-machines/c3328724-a082-435b-bddf-e1c513507fc4?cid=cid_mo809a9y_vdryi5doei8)
+
 1. **Port knocking**: `2002 → 2003 → 2006` открыл SSH.
 2. Получил доступ к пользователю `Sergey2006`.
 3. Нашёл `user.txt` → начало флага.
